@@ -97,4 +97,4 @@ print(contar_digito(num, dig))
 
 //////////////////////////////////////////////////////////////////
 
-#A pesar de ser basico, costo bastante
+#Costo bastante hacerlo a pesar de ser basico
